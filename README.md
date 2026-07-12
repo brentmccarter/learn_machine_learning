@@ -18,4 +18,4 @@
 
 
 ### References
-[Machine Learning Curriculum](https://github.com/offchan42/machine-learning-curriculum)
+* [Machine Learning Curriculum](https://github.com/offchan42/machine-learning-curriculum)
