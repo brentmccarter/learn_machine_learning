@@ -17,5 +17,5 @@
 
 
 
-
-[Reference](https://www.reddit.com/r/learnmachinelearning/comments/1oegrck/one_week_into_andrew_ngs_dl_coursesome_thoughts/)
+### References
+[Reference]([https://www.reddit.com/r/learnmachinelearning/comments/1oegrck/one_week_into_andrew_ngs_dl_coursesome_thoughts/](https://github.com/offchan42/machine-learning-curriculum))
