@@ -9,7 +9,10 @@
 
 * [Essence of Linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
+* [Mathematics for Machine Learning](https://mml-book.github.io/book/mml-book.pdf)
+
 * [linear-algebra-author-gilbert-strang.pdf](https://github.com/user-attachments/files/29714704/linear-algebra-author-gilbert-strang.pdf)
+
 
 
 ### Machine Learning
